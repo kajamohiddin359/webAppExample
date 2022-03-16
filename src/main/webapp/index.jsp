@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to KK JavaTutorials..</h2>
+<h2>This is web application where tomcat server is deployed on AWS EC-2 instance..</h2>
 </body>
 </html>
